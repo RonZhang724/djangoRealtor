@@ -29,3 +29,7 @@ div.breadcrumbs a {
 .button, input[type=submit], input[type=button], .submit-row input, a.button, .submit-row input.default {
     background: #30caa0;
 }
+
+div.changelist-filter {
+    background: #183693;
+}
